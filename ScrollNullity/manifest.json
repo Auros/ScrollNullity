@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "ScrollNullity",
+  "name": "ScrollNullity",
+  "author": "Auros",
+  "version": "1.0.0",
+  "description": "Removes the ability to scroll. It's gone. Where did it go? What? How?",
+  "gameVersion": "1.12.2",
+  "dependsOn": {
+    "BSIPA": "^4.0.0"
+  }
+}
