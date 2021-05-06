@@ -105,6 +105,7 @@
     <Compile Include="OpenVR_ScrollInvokerNuker.cs" />
     <Compile Include="Plugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TableViewScroll_Destroyer.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="manifest.json" />
